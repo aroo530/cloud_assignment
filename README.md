@@ -10,4 +10,4 @@ the docker hub pull link:
 kindly paste this command in your cmd  
 
 
-'docker pull arsanymilad45/cloud_assignment:assignment'
+<h3>'docker pull arsanymilad45/cloud_assignment:assignment'</h3>
